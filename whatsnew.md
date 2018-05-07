@@ -63,3 +63,5 @@ Requirements to enable:
 ### Product release schedule
 
 <i>[Check here for updates](https://wiki.mozilla.org/Release_Management/Calendar)</i>
+
+![Release Schedule](images/releaseschedule.png)
