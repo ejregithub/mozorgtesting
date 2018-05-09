@@ -10,6 +10,8 @@
 
 * Product release schedule
 
+* Metrics
+
 <hr>
 
 ### RASCI
@@ -65,3 +67,9 @@ Requirements to enable:
 <i>[Check here for updates](https://wiki.mozilla.org/Release_Management/Calendar)</i>
 
 ![Release Schedule](images/releaseschedule.png)
+
+### Metrics
+
+ Release  |
+| ------------- |
+| [60](https://datastudio.google.com/org/Ra9O2QIYT8We-1pOmnS_6w/reporting/0B6voOaUZL-jwMi1yNUJ4U1hnc28/page/w7YR)  | 
