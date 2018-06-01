@@ -34,6 +34,13 @@ A user on Firefox logged in to their Firefox Account that is updating from older
 Older minor version:
 A user on Firefox  updating from an older minor version gets the /whatsnew page w. mobile CTA: https://www.mozilla.org/en-US/firefox/59.0.1/whatsnew/?oldversion=59.0
 
+Possible feature (not enabled by default)
+
+* Geolocation
+* Locale based check
+* Firefox Account login status via UITour
+   * [Logged in](https://dxr.mozilla.org/mozilla-central/source/browser/components/uitour/UITour-lib.js#516)
+   * Logged into multiple devices - both [mobileDevices]() AND [desktopDevices]()
 
 <hr>
 
