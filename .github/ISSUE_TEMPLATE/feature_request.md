@@ -7,14 +7,33 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Add new - (include the build - Nightly, Beta, Release)
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+-or-
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+Update existing
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Provide the information requested below depending on the type of request new vs. update. 
+
+### For new requests, include all information. 
+
+### For existing items, include only the events, attributes or deeplink names and (important) the original github issue filed for the item
+
+#### Event name detail and technical definition:
+
+Event name: (e.g. E_FxA_New_Signup)
+Event detail: (e.g. A new Firefox accounts sign up is completed    )
+Technical definition: (e.g. Fired when the user completes the signup process to new account, but has not yet logged in.)
+
+#### Attribute name and definition:
+
+Attribute name: (e.g. Add Ons Installed)
+Attribute definition:  (e.g. List of add-ons the user has installed when the user successfully adds an add-on to their browser)
+
+#### Deeplink description and rationale
+
+Deeplink description: (e.g. Link to Set Default Browser settings)
+Rational:  (e.g. Increasing retention)
+Deeplink (proposed): (e.g. fenix://make_default_browser)
+
+#### Github issue: (for existing feature requests)
