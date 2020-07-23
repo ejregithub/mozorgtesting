@@ -7,10 +7,9 @@ assignees: ''
 
 ---
 
+## Request Type:
 Add new - (include the build - Nightly, Beta, Release)
-
 -or-
-
 Update existing
 
 ## Provide the information requested below depending on the type of request new vs. update. 
